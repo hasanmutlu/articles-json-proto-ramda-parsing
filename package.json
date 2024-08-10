@@ -1,0 +1,13 @@
+{
+  "name": "proto-parsing-ramda",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ramda": "^0.30.1"
+  }
+}

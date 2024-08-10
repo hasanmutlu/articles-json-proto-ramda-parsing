@@ -1,2 +1,18 @@
-# articles-json-proto-ramda-parsing
-This repository contains an example of how json encoded protobuf messages parsed using ramda
+## Introduction
+
+This project demonstrates a simple NodeJS application that uses Ramda to parse JSON encoded protobuf messages.
+
+### Prerequisites
+
+- NodeJS
+- Ramda
+
+### Install
+
+pull repository and run `yarn`
+
+for testing run `yarn start`
+
+### Article Link
+
+will be added
