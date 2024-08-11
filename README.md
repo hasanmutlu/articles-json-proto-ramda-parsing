@@ -5,7 +5,7 @@ This project demonstrates a simple NodeJS application that uses Ramda to parse J
 ### Prerequisites
 
 - NodeJS
-- Ramda
+- RamdaJS
 
 ### Install
 
