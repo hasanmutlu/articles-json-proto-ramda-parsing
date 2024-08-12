@@ -15,4 +15,4 @@ for testing run `yarn start`
 
 ### Article Link
 
-will be added
+https://medium.com/mobileaction-tech/parsing-json-encoded-protobuf-messages-using-ramdajs-f572f4a19089
